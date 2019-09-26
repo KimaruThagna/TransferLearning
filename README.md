@@ -1,7 +1,7 @@
 # TransferLearning
 Using the inception V3 model to perform transfer learning for pneumonia prediction from chest x-rays
 Link to the kaggle notebook.
-https://www.kaggle.com/kimaruthagana/transferlearning-pneumonia-xray-dataset
+https://www.kaggle.com/kimaruthagana/transferlearning-pneumonia-xray-dataset <br/> <br/>
 ##METHODOLOGY
 
 1.Use the inception_V3 model and eliminate the top layers to allow retraining with custom image dataset.<br/>
